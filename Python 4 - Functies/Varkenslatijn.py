@@ -49,5 +49,3 @@ def varkenslatijn(sentence: str) -> str:
         latinsentence += varkenswoord(word)
 
     return latinsentence
-
-print(varkenslatijn('Now, you listen here: he is not the Messiah, he is a very naughty boy!'))
