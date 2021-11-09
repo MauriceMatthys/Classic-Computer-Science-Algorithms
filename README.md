@@ -1,2 +1,2 @@
-# Classic-Computer-Science-Algorithms
+# Classic Computer Science Algorithms
 CCSA Dodona Python Exercises
