@@ -1,4 +1,4 @@
-#Python 1: Expressies
+# Python 1: Expressies
 
 In deze reeks van oefeningen ga je aan de slag met Python.
 
